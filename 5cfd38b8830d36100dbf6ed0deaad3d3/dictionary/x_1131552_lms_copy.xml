@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?><database>
     <element db_object_id="d4a5c978834d36100dbf6ed0deaad36a" label="Physical Item" max_length="40" name="x_1131552_lms_copy" type="collection">
-        <element label="BarCode" max_length="40" name="barcode" type="string"/>
+        <element label="BarCode" max_length="40" name="barcode" type="string" unique="true"/>
         <element label="Location" max_length="32" name="location" reference="cmn_location" type="reference"/>
         <element attributes="edge_encryption_enabled=true" default="javascript:global.getNextObjNumberPadded();" label="Number" max_length="40" name="number" type="string"/>
         <element choice="3" default="good" label="Condition" max_length="40" name="condition" type="choice">
@@ -22,10 +22,13 @@
                 <element inactive_on_update="false" label="Checked Out" sequence="1" value="checked_out"/>
             </choice>
         </element>
-        <index name="index">
-            <element name="location"/>
+        <index name="index" unique="true">
+            <element name="barcode"/>
         </index>
         <index name="index2">
+            <element name="location"/>
+        </index>
+        <index name="index3">
             <element name="title"/>
         </index>
     </element>
