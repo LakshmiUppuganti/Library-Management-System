@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="d4a5c978834d36100dbf6ed0deaad36a" label="Physical Item" max_length="40" name="x_1131552_lms_copy" type="collection">
+        <element label="BarCode" max_length="40" name="barcode" type="string"/>
+        <element label="Location" max_length="32" name="location" reference="cmn_location" type="reference"/>
+        <element attributes="edge_encryption_enabled=true" default="javascript:global.getNextObjNumberPadded();" label="Number" max_length="40" name="number" type="string"/>
+        <element choice="3" default="good" label="Condition" max_length="40" name="condition" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="Worn" sequence="2" value="worn"/>
+                <element inactive_on_update="false" label="New" sequence="0" value="new"/>
+                <element inactive_on_update="false" label="Damaged" sequence="3" value="damaged"/>
+                <element inactive_on_update="false" label="Good" sequence="1" value="good"/>
+            </choice>
+        </element>
+        <element label="Shelf" max_length="40" name="shelf" type="string"/>
+        <element label="Title" max_length="32" name="title" reference="x_1131552_lms_title" type="reference"/>
+        <element choice="3" default="available" label="Status" max_length="40" name="status" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="Damaged" sequence="4" value="damaged"/>
+                <element inactive_on_update="false" label="Reserved" sequence="2" value="reserved"/>
+                <element inactive_on_update="false" label="Available" sequence="0" value="available"/>
+                <element inactive_on_update="false" label="Lost" sequence="3" value="lost"/>
+                <element inactive_on_update="false" label="Checked Out" sequence="1" value="checked_out"/>
+            </choice>
+        </element>
+        <index name="index">
+            <element name="location"/>
+        </index>
+        <index name="index2">
+            <element name="title"/>
+        </index>
+    </element>
+</database>

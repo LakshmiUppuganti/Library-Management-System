@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_form_sections form_id="e03d8d78838d36100dbf6ed0deaad3d1" sys_domain="global" table="x_1131552_lms_loan" version="3">
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>0</position>
+            <sys_created_by>radha.uppuganti</sys_created_by>
+            <sys_created_on>2025-11-03 23:36:39</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>683d8d78838d36100dbf6ed0deaad3d5</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_1131552_lms_loan" name="x_1131552_lms_loan" sys_domain="global" view="Default view">e03d8d78838d36100dbf6ed0deaad3d1</sys_ui_form>
+            <sys_ui_section caption="Circulation Transaction" display_value="Circulation Transaction" name="x_1131552_lms_loan" sys_domain="global" view="Default view">56a785bc834d36100dbf6ed0deaad3de</sys_ui_section>
+            <sys_updated_by>radha.uppuganti</sys_updated_by>
+            <sys_updated_on>2025-11-03 23:36:39</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>1</position>
+            <sys_created_by>radha.uppuganti</sys_created_by>
+            <sys_created_on>2025-11-03 23:36:39</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>603d8d78838d36100dbf6ed0deaad3d7</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_1131552_lms_loan" name="x_1131552_lms_loan" sys_domain="global" view="Default view">e03d8d78838d36100dbf6ed0deaad3d1</sys_ui_form>
+            <sys_ui_section caption="Parties" display_value="Parties" name="x_1131552_lms_loan" sys_domain="global" view="Default view">283d8d78838d36100dbf6ed0deaad3cc</sys_ui_section>
+            <sys_updated_by>radha.uppuganti</sys_updated_by>
+            <sys_updated_on>2025-11-03 23:36:39</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>2</position>
+            <sys_created_by>radha.uppuganti</sys_created_by>
+            <sys_created_on>2025-11-03 23:36:39</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>ec3d8d78838d36100dbf6ed0deaad3dd</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_1131552_lms_loan" name="x_1131552_lms_loan" sys_domain="global" view="Default view">e03d8d78838d36100dbf6ed0deaad3d1</sys_ui_form>
+            <sys_ui_section caption="Dates" display_value="Dates" name="x_1131552_lms_loan" sys_domain="global" view="Default view">a03d8d78838d36100dbf6ed0deaad3ce</sys_ui_section>
+            <sys_updated_by>radha.uppuganti</sys_updated_by>
+            <sys_updated_on>2025-11-03 23:36:39</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>3</position>
+            <sys_created_by>radha.uppuganti</sys_created_by>
+            <sys_created_on>2025-11-03 23:36:39</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>a03d8d78838d36100dbf6ed0deaad3e5</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_1131552_lms_loan" name="x_1131552_lms_loan" sys_domain="global" view="Default view">e03d8d78838d36100dbf6ed0deaad3d1</sys_ui_form>
+            <sys_ui_section caption="Controls" display_value="Controls" name="x_1131552_lms_loan" sys_domain="global" view="Default view">2c3d8d78838d36100dbf6ed0deaad3cf</sys_ui_section>
+            <sys_updated_by>radha.uppuganti</sys_updated_by>
+            <sys_updated_on>2025-11-03 23:36:39</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form action="INSERT_OR_UPDATE">
+            <name>x_1131552_lms_loan</name>
+            <roles/>
+            <sys_class_name>sys_ui_form</sys_class_name>
+            <sys_created_by>radha.uppuganti</sys_created_by>
+            <sys_created_on>2025-11-03 23:36:39</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>e03d8d78838d36100dbf6ed0deaad3d1</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_1131552_lms_loan</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="LMS" source="x_1131552_lms">5cfd38b8830d36100dbf6ed0deaad3d3</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="LMS">5cfd38b8830d36100dbf6ed0deaad3d3</sys_scope>
+            <sys_update_name>sys_ui_form_sections_e03d8d78838d36100dbf6ed0deaad3d1</sys_update_name>
+            <sys_updated_by>radha.uppuganti</sys_updated_by>
+            <sys_updated_on>2025-11-03 23:36:39</sys_updated_on>
+            <sys_user/>
+            <view display_value="Default view" name="NULL">Default view</view>
+            <view_name/>
+        </sys_ui_form>
+    </sys_ui_form_sections>
+</record_update>

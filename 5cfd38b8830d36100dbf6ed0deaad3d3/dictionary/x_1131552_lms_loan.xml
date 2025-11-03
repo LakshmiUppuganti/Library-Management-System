@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="9aa785bc834d36100dbf6ed0deaad333" label="Circulation Trasaction" max_length="40" name="x_1131552_lms_loan" type="collection">
+        <element default="00" label="Renew Count" max_length="40" name="renew_count" type="integer"/>
+        <element label="Return Date" max_length="40" name="return_date" type="calendar_date_time"/>
+        <element label="Patron" max_length="32" name="patron" reference="x_1131552_lms_patron" type="reference"/>
+        <element label="Checkout Date" max_length="40" name="checkout_date" type="calendar_date_time"/>
+        <element attributes="edge_encryption_enabled=true" default="javascript:global.getNextObjNumberPadded();" label="Number" max_length="40" name="number" type="string"/>
+        <element choice="3" default="draft" label="Status" max_length="40" name="status" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="Draft" sequence="0" value="draft"/>
+                <element inactive_on_update="false" label="Open" sequence="1" value="open"/>
+                <element inactive_on_update="false" label="Closed" sequence="2" value="closed"/>
+            </choice>
+        </element>
+        <element label="Copy" max_length="32" name="copy" reference="x_1131552_lms_copy" type="reference"/>
+        <element label="Due Date" max_length="40" name="due_date" type="due_date"/>
+        <index name="index">
+            <element name="copy"/>
+        </index>
+        <index name="index2">
+            <element name="patron"/>
+        </index>
+    </element>
+</database>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="09c6c13c834d36100dbf6ed0deaad376" label="Member" max_length="40" name="x_1131552_lms_patron" type="collection">
+        <element attributes="edge_encryption_enabled=true" default="javascript:global.getNextObjNumberPadded();" label="Number" max_length="40" name="number" type="string"/>
+        <element choice="3" default="standard" label="Membership Tier" max_length="40" name="membership_tier" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="Staff" sequence="2" value="staff"/>
+                <element inactive_on_update="false" label="Standard" sequence="0" value="standard"/>
+                <element inactive_on_update="false" label="Premium" sequence="1" value="premium"/>
+            </choice>
+        </element>
+        <element label="User" max_length="32" name="user" reference="sys_user" type="reference"/>
+        <element default="5" label="Loan Limit" max_length="255" name="loan_limit" type="integer"/>
+        <element default="50.00" label="Fine Limit" max_length="255" name="fine_limit" type="currency2"/>
+        <index name="index">
+            <element name="fine_limit"/>
+        </index>
+        <index name="index2">
+            <element name="user"/>
+        </index>
+    </element>
+</database>
