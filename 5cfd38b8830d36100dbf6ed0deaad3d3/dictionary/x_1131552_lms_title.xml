@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?><database>
-    <element db_object_id="bdd20134834d36100dbf6ed0deaad393" label="Title" max_length="40" name="x_1131552_lms_title" type="collection">
+    <element db_object_id="bdd20134834d36100dbf6ed0deaad393" label="Title" max_length="40" name="x_1131552_lms_title" text_index="true" type="collection">
         <element display="true" label="Name" mandatory="true" max_length="255" name="name" type="string"/>
         <element label="Publisher" mandatory="true" max_length="40" name="publisher" type="string"/>
         <element default="true" label="Active" max_length="255" name="active" type="boolean"/>

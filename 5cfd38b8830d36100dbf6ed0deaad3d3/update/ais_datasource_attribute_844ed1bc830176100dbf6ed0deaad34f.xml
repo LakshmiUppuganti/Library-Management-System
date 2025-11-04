@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="ais_datasource_attribute">
+    <ais_datasource_attribute action="INSERT_OR_UPDATE">
+        <attribute display_value="index_attachments">2dd8f14753320010ffaaddeeff7b1293</attribute>
+        <datasource display_value="Member Table">804ed1bc830176100dbf6ed0deaad34e</datasource>
+        <source>x_1131552_lms_patron</source>
+        <sys_class_name>ais_datasource_attribute</sys_class_name>
+        <sys_created_by>radha.uppuganti</sys_created_by>
+        <sys_created_on>2025-11-04 00:51:09</sys_created_on>
+        <sys_id>844ed1bc830176100dbf6ed0deaad34f</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="LMS" source="x_1131552_lms">5cfd38b8830d36100dbf6ed0deaad3d3</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="LMS">5cfd38b8830d36100dbf6ed0deaad3d3</sys_scope>
+        <sys_update_name>ais_datasource_attribute_844ed1bc830176100dbf6ed0deaad34f</sys_update_name>
+        <sys_updated_by>radha.uppuganti</sys_updated_by>
+        <sys_updated_on>2025-11-04 00:51:09</sys_updated_on>
+        <value>false</value>
+    </ais_datasource_attribute>
+</record_update>

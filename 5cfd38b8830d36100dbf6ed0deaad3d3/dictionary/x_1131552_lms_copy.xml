@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?><database>
-    <element db_object_id="d4a5c978834d36100dbf6ed0deaad36a" label="Physical Item" max_length="40" name="x_1131552_lms_copy" type="collection">
+    <element db_object_id="d4a5c978834d36100dbf6ed0deaad36a" label="Physical Item" max_length="40" name="x_1131552_lms_copy" text_index="true" type="collection">
         <element label="BarCode" max_length="40" name="barcode" type="string" unique="true"/>
         <element label="Location" max_length="32" name="location" reference="cmn_location" type="reference"/>
         <element attributes="edge_encryption_enabled=true" default="javascript:global.getNextObjNumberPadded();" label="Number" max_length="40" name="number" type="string"/>

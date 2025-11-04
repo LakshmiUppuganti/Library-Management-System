@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl_role">
+    <sys_security_acl_role action="INSERT_OR_UPDATE">
+        <sys_class_name>sys_security_acl_role</sys_class_name>
+        <sys_created_by>radha.uppuganti</sys_created_by>
+        <sys_created_on>2025-11-04 00:51:07</sys_created_on>
+        <sys_id>2f3e91bc830176100dbf6ed0deaad316</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x.1131552.library-management-system.*.x_1131552_lms.auditor</sys_name>
+        <sys_package display_value="LMS" source="x_1131552_lms">5cfd38b8830d36100dbf6ed0deaad3d3</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="LMS">5cfd38b8830d36100dbf6ed0deaad3d3</sys_scope>
+        <sys_security_acl display_value="x.1131552.library-management-system.*">5a3edd7cce0176109737d6c0f3070888</sys_security_acl>
+        <sys_update_name>sys_security_acl_role_2f3e91bc830176100dbf6ed0deaad316</sys_update_name>
+        <sys_updated_by>radha.uppuganti</sys_updated_by>
+        <sys_updated_on>2025-11-04 00:51:07</sys_updated_on>
+        <sys_user_role display_value="x_1131552_lms.auditor" name="x_1131552_lms.auditor">14fd38b8830d36100dbf6ed0deaad3e6</sys_user_role>
+    </sys_security_acl_role>
+</record_update>

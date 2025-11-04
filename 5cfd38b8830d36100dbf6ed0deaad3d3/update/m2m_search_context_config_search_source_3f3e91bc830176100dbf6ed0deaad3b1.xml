@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="m2m_search_context_config_search_source">
+    <m2m_search_context_config_search_source action="INSERT_OR_UPDATE">
+        <order>300</order>
+        <search_context_config display_value="Library Management System - Workspace Search">523edd7cbe0176104ff6df1660d6be89</search_context_config>
+        <source display_value="Library Management System - x_1131552_lms_copy">3b3e91bc830176100dbf6ed0deaad3a5</source>
+        <sys_class_name>m2m_search_context_config_search_source</sys_class_name>
+        <sys_created_by>radha.uppuganti</sys_created_by>
+        <sys_created_on>2025-11-04 00:51:08</sys_created_on>
+        <sys_id>3f3e91bc830176100dbf6ed0deaad3b1</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="LMS" source="x_1131552_lms">5cfd38b8830d36100dbf6ed0deaad3d3</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="LMS">5cfd38b8830d36100dbf6ed0deaad3d3</sys_scope>
+        <sys_update_name>m2m_search_context_config_search_source_3f3e91bc830176100dbf6ed0deaad3b1</sys_update_name>
+        <sys_updated_by>radha.uppuganti</sys_updated_by>
+        <sys_updated_on>2025-11-04 00:51:08</sys_updated_on>
+    </m2m_search_context_config_search_source>
+</record_update>

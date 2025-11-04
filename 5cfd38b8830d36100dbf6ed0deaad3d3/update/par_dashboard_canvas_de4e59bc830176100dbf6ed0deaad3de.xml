@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="par_dashboard_canvas">
+    <par_dashboard_canvas action="INSERT_OR_UPDATE">
+        <dashboard display_value="Library Management System">0e4e59bc830176100dbf6ed0deaad3a0</dashboard>
+        <dashboard_tab/>
+        <layout>[]</layout>
+        <sys_class_name>par_dashboard_canvas</sys_class_name>
+        <sys_created_by>radha.uppuganti</sys_created_by>
+        <sys_created_on>2025-11-04 00:51:18</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>de4e59bc830176100dbf6ed0deaad3de</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_overrides/>
+        <sys_package display_value="LMS" source="x_1131552_lms">5cfd38b8830d36100dbf6ed0deaad3d3</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="LMS">5cfd38b8830d36100dbf6ed0deaad3d3</sys_scope>
+        <sys_update_name>par_dashboard_canvas_de4e59bc830176100dbf6ed0deaad3de</sys_update_name>
+        <sys_updated_by>radha.uppuganti</sys_updated_by>
+        <sys_updated_on>2025-11-04 00:51:18</sys_updated_on>
+    </par_dashboard_canvas>
+</record_update>

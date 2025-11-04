@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ux_page_property">
+    <sys_ux_page_property action="INSERT_OR_UPDATE">
+        <choices/>
+        <description>Tabs Configuration</description>
+        <name>chrome_tab</name>
+        <page display_value="Library Management System">163edd7cfd017610c063c799316f1893</page>
+        <required_translations>[ {
+  "message" : "New Circulation Trasaction",
+  "code" : "",
+  "comment" : ""
+}, {
+  "message" : "New Member",
+  "code" : "",
+  "comment" : ""
+}, {
+  "message" : "New Physical Item",
+  "code" : "",
+  "comment" : ""
+}, {
+  "message" : "New Title",
+  "code" : "",
+  "comment" : ""
+} ]</required_translations>
+        <route/>
+        <suffix/>
+        <sys_class_name>sys_ux_page_property</sys_class_name>
+        <sys_created_by>radha.uppuganti</sys_created_by>
+        <sys_created_on>2025-11-04 00:51:04</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>global</sys_domain_path>
+        <sys_id>523edd7c01017610897d8c2ebda07d81</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>chrome_tab</sys_name>
+        <sys_package display_value="LMS" source="x_1131552_lms">5cfd38b8830d36100dbf6ed0deaad3d3</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="LMS">5cfd38b8830d36100dbf6ed0deaad3d3</sys_scope>
+        <sys_update_name>sys_ux_page_property_523edd7c01017610897d8c2ebda07d81</sys_update_name>
+        <sys_updated_by>radha.uppuganti</sys_updated_by>
+        <sys_updated_on>2025-11-04 00:51:08</sys_updated_on>
+        <type>json</type>
+        <unique_name>x_1131552_lms.163edd7cfd017610c063c799316f1893.root.global.chrome_tab</unique_name>
+        <value>{"contextual":["record"],"newTabMenu":[{"label":{"translatable":true,"message":"New Circulation Trasaction"},"routeInfo":{"route":"record","fields":{"table":"x_1131552_lms_loan","sysId":"-1"},"multiInstField":"sysId"},"condition":{"tableDescription":{"table":"x_1131552_lms_loan","canCreate":true}}},{"label":{"translatable":true,"message":"New Member"},"routeInfo":{"route":"record","fields":{"table":"x_1131552_lms_patron","sysId":"-1"},"multiInstField":"sysId"},"condition":{"tableDescription":{"table":"x_1131552_lms_patron","canCreate":true}}},{"label":{"translatable":true,"message":"New Physical Item"},"routeInfo":{"route":"record","fields":{"table":"x_1131552_lms_copy","sysId":"-1"},"multiInstField":"sysId"},"condition":{"tableDescription":{"table":"x_1131552_lms_copy","canCreate":true}}},{"label":{"translatable":true,"message":"New Title"},"routeInfo":{"route":"record","fields":{"table":"x_1131552_lms_title","sysId":"-1"},"multiInstField":"sysId"},"condition":{"tableDescription":{"table":"x_1131552_lms_title","canCreate":true}}}],"maxMainTabLimit":10,"maxTotalSubTabLimit":30}</value>
+    </sys_ux_page_property>
+    <sys_translated_text action="delete_multiple" query="documentkey=523edd7c01017610897d8c2ebda07d81"/>
+</record_update>

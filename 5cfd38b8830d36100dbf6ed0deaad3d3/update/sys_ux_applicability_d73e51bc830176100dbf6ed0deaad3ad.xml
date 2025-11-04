@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ux_applicability">
+    <sys_ux_applicability action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <api_name>x_1131552_lms.Audience for app library-management-system</api_name>
+        <description/>
+        <name>Audience for app library-management-system</name>
+        <role_names/>
+        <roles>e4fd78b8830d36100dbf6ed0deaad320,a8fd38b8830d36100dbf6ed0deaad3f5,14fd38b8830d36100dbf6ed0deaad3e6,60fd78b8830d36100dbf6ed0deaad326,acfd38b8830d36100dbf6ed0deaad3ef</roles>
+        <sys_class_name>sys_ux_applicability</sys_class_name>
+        <sys_created_by>radha.uppuganti</sys_created_by>
+        <sys_created_on>2025-11-04 00:51:06</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>d73e51bc830176100dbf6ed0deaad3ad</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Audience for app library-management-system</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="LMS" source="x_1131552_lms">5cfd38b8830d36100dbf6ed0deaad3d3</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="LMS">5cfd38b8830d36100dbf6ed0deaad3d3</sys_scope>
+        <sys_update_name>sys_ux_applicability_d73e51bc830176100dbf6ed0deaad3ad</sys_update_name>
+        <sys_updated_by>radha.uppuganti</sys_updated_by>
+        <sys_updated_on>2025-11-04 00:51:06</sys_updated_on>
+    </sys_ux_applicability>
+</record_update>
