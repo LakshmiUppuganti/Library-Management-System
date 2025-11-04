@@ -4,13 +4,13 @@
             <element>publisher</element>
             <position>0</position>
             <sys_created_by>radha.uppuganti</sys_created_by>
-            <sys_created_on>2025-11-03 23:20:28</sys_created_on>
-            <sys_id>a779c1b0838d36100dbf6ed0deaad365</sys_id>
+            <sys_created_on>2025-11-04 00:04:00</sys_created_on>
+            <sys_id>5d73513883cd36100dbf6ed0deaad382</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="Publishing" display_value="Publishing" name="x_1131552_lms_title" sys_domain="global" view="Default view">e779c1b0838d36100dbf6ed0deaad31b</sys_ui_section>
             <sys_updated_by>radha.uppuganti</sys_updated_by>
-            <sys_updated_on>2025-11-03 23:20:28</sys_updated_on>
+            <sys_updated_on>2025-11-04 00:04:00</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -18,55 +18,69 @@
             <element>genre</element>
             <position>1</position>
             <sys_created_by>radha.uppuganti</sys_created_by>
-            <sys_created_on>2025-11-03 23:20:28</sys_created_on>
-            <sys_id>6379c1b0838d36100dbf6ed0deaad366</sys_id>
+            <sys_created_on>2025-11-04 00:04:00</sys_created_on>
+            <sys_id>d973513883cd36100dbf6ed0deaad383</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="Publishing" display_value="Publishing" name="x_1131552_lms_title" sys_domain="global" view="Default view">e779c1b0838d36100dbf6ed0deaad31b</sys_ui_section>
             <sys_updated_by>radha.uppuganti</sys_updated_by>
-            <sys_updated_on>2025-11-03 23:20:28</sys_updated_on>
+            <sys_updated_on>2025-11-04 00:04:00</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>custom_genre</element>
+            <position>2</position>
+            <sys_created_by>radha.uppuganti</sys_created_by>
+            <sys_created_on>2025-11-04 00:04:00</sys_created_on>
+            <sys_id>5973513883cd36100dbf6ed0deaad384</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Publishing" display_value="Publishing" name="x_1131552_lms_title" sys_domain="global" view="Default view">e779c1b0838d36100dbf6ed0deaad31b</sys_ui_section>
+            <sys_updated_by>radha.uppuganti</sys_updated_by>
+            <sys_updated_on>2025-11-04 00:04:00</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>.split</element>
-            <position>2</position>
+            <position>3</position>
             <sys_created_by>radha.uppuganti</sys_created_by>
-            <sys_created_on>2025-11-03 23:20:28</sys_created_on>
-            <sys_id>2f79c1b0838d36100dbf6ed0deaad366</sys_id>
+            <sys_created_on>2025-11-04 00:04:00</sys_created_on>
+            <sys_id>d573513883cd36100dbf6ed0deaad385</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="Publishing" display_value="Publishing" name="x_1131552_lms_title" sys_domain="global" view="Default view">e779c1b0838d36100dbf6ed0deaad31b</sys_ui_section>
             <sys_updated_by>radha.uppuganti</sys_updated_by>
-            <sys_updated_on>2025-11-03 23:20:28</sys_updated_on>
+            <sys_updated_on>2025-11-04 00:04:00</sys_updated_on>
             <sys_user/>
             <type>.split</type>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>publication_year</element>
-            <position>3</position>
+            <position>4</position>
             <sys_created_by>radha.uppuganti</sys_created_by>
-            <sys_created_on>2025-11-03 23:20:28</sys_created_on>
-            <sys_id>e779c1b0838d36100dbf6ed0deaad367</sys_id>
+            <sys_created_on>2025-11-04 00:04:00</sys_created_on>
+            <sys_id>5573513883cd36100dbf6ed0deaad386</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="Publishing" display_value="Publishing" name="x_1131552_lms_title" sys_domain="global" view="Default view">e779c1b0838d36100dbf6ed0deaad31b</sys_ui_section>
             <sys_updated_by>radha.uppuganti</sys_updated_by>
-            <sys_updated_on>2025-11-03 23:20:28</sys_updated_on>
+            <sys_updated_on>2025-11-04 00:04:00</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>tags</element>
-            <position>4</position>
+            <position>5</position>
             <sys_created_by>radha.uppuganti</sys_created_by>
-            <sys_created_on>2025-11-03 23:20:28</sys_created_on>
-            <sys_id>a379c1b0838d36100dbf6ed0deaad368</sys_id>
+            <sys_created_on>2025-11-04 00:04:00</sys_created_on>
+            <sys_id>d173513883cd36100dbf6ed0deaad387</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="Publishing" display_value="Publishing" name="x_1131552_lms_title" sys_domain="global" view="Default view">e779c1b0838d36100dbf6ed0deaad31b</sys_ui_section>
             <sys_updated_by>radha.uppuganti</sys_updated_by>
-            <sys_updated_on>2025-11-03 23:20:28</sys_updated_on>
+            <sys_updated_on>2025-11-04 00:04:00</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>

@@ -1,24 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?><record_update>
-    <sys_documentation element="isbn_13" label="ISBN_13" language="en" table="x_1131552_lms_title">
+    <sys_documentation element="custom_genre" label="Specify the Genre" language="en" table="x_1131552_lms_title">
         <sys_documentation action="INSERT_OR_UPDATE">
-            <element>isbn_13</element>
+            <element>custom_genre</element>
             <help/>
             <hint/>
-            <label>ISBN_13</label>
+            <label>Specify the Genre</label>
             <language>en</language>
             <name>x_1131552_lms_title</name>
             <plural/>
             <sys_class_name>sys_documentation</sys_class_name>
             <sys_created_by>radha.uppuganti</sys_created_by>
-            <sys_created_on>2025-11-03 23:01:29</sys_created_on>
-            <sys_mod_count>5</sys_mod_count>
-            <sys_name>ISBN_13</sys_name>
+            <sys_created_on>2025-11-04 00:03:26</sys_created_on>
+            <sys_mod_count>3</sys_mod_count>
+            <sys_name>Specify the Genre</sys_name>
             <sys_package display_value="LMS" source="x_1131552_lms">5cfd38b8830d36100dbf6ed0deaad3d3</sys_package>
             <sys_policy/>
             <sys_scope display_value="LMS">5cfd38b8830d36100dbf6ed0deaad3d3</sys_scope>
-            <sys_update_name>sys_documentation_x_1131552_lms_title_isbn_13_en</sys_update_name>
+            <sys_update_name>sys_documentation_x_1131552_lms_title_custom_genre_en</sys_update_name>
             <sys_updated_by>radha.uppuganti</sys_updated_by>
-            <sys_updated_on>2025-11-04 00:04:51</sys_updated_on>
+            <sys_updated_on>2025-11-04 00:03:27</sys_updated_on>
             <url/>
             <url_target/>
         </sys_documentation>

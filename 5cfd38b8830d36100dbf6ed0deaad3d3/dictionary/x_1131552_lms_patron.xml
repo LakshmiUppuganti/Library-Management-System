@@ -11,6 +11,7 @@
         <element label="User" max_length="32" name="user" reference="sys_user" type="reference"/>
         <element default="5" label="Loan Limit" max_length="255" name="loan_limit" type="integer"/>
         <element default="50.00" label="Fine Limit" max_length="255" name="fine_limit" type="currency2"/>
+        <element default="true" label="Active" max_length="255" name="active" type="boolean"/>
         <index name="index">
             <element name="fine_limit"/>
         </index>

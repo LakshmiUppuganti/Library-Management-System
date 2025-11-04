@@ -2,6 +2,7 @@
     <element db_object_id="9aa785bc834d36100dbf6ed0deaad333" label="Circulation Trasaction" max_length="40" name="x_1131552_lms_loan" type="collection">
         <element default="00" label="Renew Count" max_length="40" name="renew_count" type="integer"/>
         <element label="Return Date" max_length="40" name="return_date" type="calendar_date_time"/>
+        <element default="true" label="Active" max_length="255" name="active" type="boolean"/>
         <element label="Patron" max_length="32" name="patron" reference="x_1131552_lms_patron" type="reference"/>
         <element label="Checkout Date" max_length="40" name="checkout_date" type="calendar_date_time"/>
         <element attributes="edge_encryption_enabled=true" default="javascript:global.getNextObjNumberPadded();" label="Number" max_length="40" name="number" type="string"/>

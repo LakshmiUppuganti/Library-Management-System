@@ -4,13 +4,13 @@
             <element>renew_count</element>
             <position>0</position>
             <sys_created_by>radha.uppuganti</sys_created_by>
-            <sys_created_on>2025-11-03 23:36:39</sys_created_on>
-            <sys_id>2c3dcd78838d36100dbf6ed0deaad308</sys_id>
+            <sys_created_on>2025-11-04 00:24:09</sys_created_on>
+            <sys_id>2c18dd70830176100dbf6ed0deaad3aa</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="Controls" display_value="Controls" name="x_1131552_lms_loan" sys_domain="global" view="Default view">2c3d8d78838d36100dbf6ed0deaad3cf</sys_ui_section>
             <sys_updated_by>radha.uppuganti</sys_updated_by>
-            <sys_updated_on>2025-11-03 23:36:39</sys_updated_on>
+            <sys_updated_on>2025-11-04 00:24:09</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -18,15 +18,29 @@
             <element>.split</element>
             <position>1</position>
             <sys_created_by>radha.uppuganti</sys_created_by>
-            <sys_created_on>2025-11-03 23:36:39</sys_created_on>
-            <sys_id>a83dcd78838d36100dbf6ed0deaad309</sys_id>
+            <sys_created_on>2025-11-04 00:24:09</sys_created_on>
+            <sys_id>a818dd70830176100dbf6ed0deaad3ab</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="Controls" display_value="Controls" name="x_1131552_lms_loan" sys_domain="global" view="Default view">2c3d8d78838d36100dbf6ed0deaad3cf</sys_ui_section>
             <sys_updated_by>radha.uppuganti</sys_updated_by>
-            <sys_updated_on>2025-11-03 23:36:39</sys_updated_on>
+            <sys_updated_on>2025-11-04 00:24:09</sys_updated_on>
             <sys_user/>
             <type>.split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>active</element>
+            <position>2</position>
+            <sys_created_by>radha.uppuganti</sys_created_by>
+            <sys_created_on>2025-11-04 00:24:09</sys_created_on>
+            <sys_id>2818dd70830176100dbf6ed0deaad3ac</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Controls" display_value="Controls" name="x_1131552_lms_loan" sys_domain="global" view="Default view">2c3d8d78838d36100dbf6ed0deaad3cf</sys_ui_section>
+            <sys_updated_by>radha.uppuganti</sys_updated_by>
+            <sys_updated_on>2025-11-04 00:24:09</sys_updated_on>
+            <sys_user/>
+            <type/>
         </sys_ui_element>
         <sys_ui_section action="INSERT_OR_UPDATE">
             <caption>Controls</caption>

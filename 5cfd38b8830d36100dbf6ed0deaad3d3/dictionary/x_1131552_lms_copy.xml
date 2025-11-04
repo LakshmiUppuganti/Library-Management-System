@@ -12,6 +12,7 @@
             </choice>
         </element>
         <element label="Shelf" max_length="40" name="shelf" type="string"/>
+        <element default="true" label="Active" max_length="255" name="active" type="boolean"/>
         <element label="Title" max_length="32" name="title" reference="x_1131552_lms_title" type="reference"/>
         <element choice="3" default="available" label="Status" max_length="40" name="status" type="choice">
             <choice>
